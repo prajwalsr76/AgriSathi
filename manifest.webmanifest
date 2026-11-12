@@ -1,0 +1,16 @@
+{
+  "name": "AgriSathi — AI Crop Doctor",
+  "short_name": "AgriSathi",
+  "description": "Diagnose crop diseases, get weather-based alerts, spray doses, fertilizer plans and profit estimates.",
+  "start_url": "./#/",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f8f7",
+  "theme_color": "#0b6e4f",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "assets/img/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["agriculture", "education", "productivity"]
+}

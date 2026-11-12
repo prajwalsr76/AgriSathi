@@ -1,0 +1,789 @@
+true_condition,predicted,confidence,correct
+Chilli · healthy,Chilli · healthy,0.697,1
+Chilli · healthy,Chilli · healthy,0.984,1
+Chilli · healthy,Chilli · healthy,0.96,1
+Chilli · healthy,Chilli · healthy,0.986,1
+Chilli · healthy,Chilli · healthy,0.957,1
+Chilli · healthy,Chilli · healthy,0.991,1
+Chilli · healthy,Chilli · healthy,0.953,1
+Chilli · healthy,Chilli · healthy,0.961,1
+Chilli · healthy,Chilli · healthy,0.985,1
+Chilli · healthy,Chilli · healthy,0.951,1
+Chilli · healthy,Chilli · healthy,0.905,1
+Chilli · healthy,"Pepper, bell · healthy",0.949,0
+Chilli · healthy,Chilli · healthy,0.854,1
+Chilli · healthy,Chilli · healthy,0.9,1
+Chilli · healthy,Chilli · healthy,0.823,1
+Chilli · healthy,Chilli · Mites and thrips,0.806,0
+Chilli · healthy,Chilli · healthy,0.888,1
+Chilli · healthy,Chilli · Mites and thrips,0.576,0
+Chilli · healthy,Chilli · healthy,0.951,1
+Chilli · healthy,Chilli · Mites and thrips,0.353,0
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.994,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.986,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.995,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.953,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.98,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.983,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.888,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.834,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.99,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.962,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.994,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.996,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.996,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.949,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.974,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.992,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.999,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.942,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.932,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.997,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.999,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.994,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.852,1
+Chilli · Powdery mildew,Chilli · Powdery mildew,0.995,1
+Chilli · Nutrient deficiency,Chilli · Cercospora leaf spot,0.301,0
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.607,1
+Chilli · Nutrient deficiency,Chilli · Mites and thrips,0.89,0
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.7,1
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.934,1
+Chilli · Nutrient deficiency,Chilli · Cercospora leaf spot,0.721,0
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.941,1
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.518,1
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.808,1
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.996,1
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.901,1
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.581,1
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.811,1
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.974,1
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.633,1
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.582,1
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.835,1
+Chilli · Nutrient deficiency,Chilli · Mites and thrips,0.286,0
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.826,1
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.597,1
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.692,1
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.887,1
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.583,1
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.99,1
+Chilli · Nutrient deficiency,Chilli · Cercospora leaf spot,0.556,0
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.942,1
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.984,1
+Chilli · Nutrient deficiency,Chilli · Nutrient deficiency,0.98,1
+Chilli · Mites and thrips,Chilli · Leaf curl virus,0.845,0
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.953,1
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.949,1
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.423,1
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.457,1
+Chilli · Mites and thrips,Chilli · Cercospora leaf spot,0.299,0
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.869,1
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.494,1
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.581,1
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.765,1
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.754,1
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.605,1
+Chilli · Mites and thrips,Chilli · Nutrient deficiency,0.463,0
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.953,1
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.573,1
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.791,1
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.91,1
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.961,1
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.529,1
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.924,1
+Chilli · Mites and thrips,Chilli · healthy,0.379,0
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.724,1
+Chilli · Mites and thrips,Chilli · Powdery mildew,0.322,0
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.919,1
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.604,1
+Chilli · Mites and thrips,Chilli · Mites and thrips,0.955,1
+Chilli · Cercospora leaf spot,Chilli · Cercospora leaf spot,0.798,1
+Chilli · Cercospora leaf spot,Chilli · Nutrient deficiency,0.622,0
+Chilli · Cercospora leaf spot,Chilli · Cercospora leaf spot,0.58,1
+Chilli · Cercospora leaf spot,Chilli · Cercospora leaf spot,0.398,1
+Chilli · Cercospora leaf spot,Chilli · Nutrient deficiency,0.86,0
+Chilli · Cercospora leaf spot,Chilli · Cercospora leaf spot,0.991,1
+Chilli · Cercospora leaf spot,Chilli · Mites and thrips,0.551,0
+Chilli · Cercospora leaf spot,Chilli · Cercospora leaf spot,0.869,1
+Chilli · Cercospora leaf spot,Chilli · Cercospora leaf spot,0.914,1
+Chilli · Cercospora leaf spot,Chilli · Powdery mildew,0.994,0
+Chilli · Cercospora leaf spot,Chilli · Cercospora leaf spot,0.499,1
+Chilli · Cercospora leaf spot,Chilli · Cercospora leaf spot,0.755,1
+Chilli · Cercospora leaf spot,Chilli · Cercospora leaf spot,0.893,1
+Chilli · Cercospora leaf spot,Chilli · Nutrient deficiency,0.507,0
+Chilli · Cercospora leaf spot,Chilli · Cercospora leaf spot,0.912,1
+Chilli · Cercospora leaf spot,Chilli · Cercospora leaf spot,0.944,1
+Chilli · Cercospora leaf spot,Chilli · Mites and thrips,0.942,0
+Chilli · Cercospora leaf spot,Chilli · Nutrient deficiency,0.443,0
+Chilli · Cercospora leaf spot,Chilli · Cercospora leaf spot,0.979,1
+Chilli · Cercospora leaf spot,Chilli · Nutrient deficiency,0.82,0
+Chilli · Cercospora leaf spot,Chilli · Cercospora leaf spot,0.977,1
+Chilli · Cercospora leaf spot,Chilli · Cercospora leaf spot,0.951,1
+Chilli · Cercospora leaf spot,Chilli · Cercospora leaf spot,0.945,1
+Chilli · Cercospora leaf spot,Chilli · Cercospora leaf spot,0.966,1
+Chilli · Cercospora leaf spot,Chilli · Cercospora leaf spot,0.967,1
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.689,1
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.908,1
+Chilli · Leaf curl virus,Chilli · Mites and thrips,0.569,0
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.912,1
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.901,1
+Chilli · Leaf curl virus,Chilli · Mites and thrips,0.619,0
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.827,1
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.967,1
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.697,1
+Chilli · Leaf curl virus,Chilli · Mites and thrips,0.831,0
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.699,1
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.564,1
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.947,1
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.915,1
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.985,1
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.954,1
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.861,1
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.953,1
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.912,1
+Chilli · Leaf curl virus,Chilli · Mites and thrips,0.763,0
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.717,1
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.932,1
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.955,1
+Chilli · Leaf curl virus,Chilli · Leaf curl virus,0.667,1
+Rice · Bacterial leaf blight,Rice · Bacterial leaf blight,0.521,1
+Rice · Bacterial leaf blight,Rice · Bacterial leaf blight,0.721,1
+Rice · Bacterial leaf blight,Rice · Bacterial leaf blight,0.354,1
+Rice · Bacterial leaf blight,Rice · Downy mildew,0.518,0
+Rice · Bacterial leaf blight,Rice · Bacterial leaf blight,0.473,1
+Rice · Bacterial leaf blight,Rice · Bacterial leaf blight,0.626,1
+Rice · Bacterial leaf blight,Rice · Bacterial leaf blight,0.338,1
+Rice · Bacterial leaf blight,Rice · Tungro,0.38,0
+Rice · Bacterial leaf blight,Rice · Brown spot,0.423,0
+Rice · Bacterial leaf blight,Rice · Bacterial leaf blight,0.784,1
+Rice · Bacterial leaf blight,Rice · Bacterial leaf blight,0.394,1
+Rice · Bacterial leaf blight,Rice · Bacterial leaf streak,0.22,0
+Rice · Bacterial leaf blight,Rice · Bacterial leaf blight,0.801,1
+Rice · Bacterial leaf blight,Rice · healthy,0.388,0
+Rice · Bacterial leaf blight,Rice · Bacterial leaf blight,0.495,1
+Rice · Bacterial leaf blight,Rice · Bacterial leaf blight,0.477,1
+Rice · Bacterial leaf blight,Rice · Bacterial leaf blight,0.701,1
+Rice · Bacterial leaf blight,Rice · Tungro,0.507,0
+Rice · Bacterial leaf blight,Rice · Bacterial leaf blight,0.418,1
+Rice · Bacterial leaf blight,Rice · Bacterial leaf blight,0.525,1
+Rice · Bacterial leaf blight,Rice · Bacterial leaf blight,0.551,1
+Rice · Brown spot,Rice · Brown spot,0.844,1
+Rice · Brown spot,Rice · Brown spot,0.786,1
+Rice · Brown spot,Rice · Brown spot,0.534,1
+Rice · Brown spot,Rice · Downy mildew,0.404,0
+Rice · Brown spot,Rice · Downy mildew,0.682,0
+Rice · Brown spot,Rice · Brown spot,0.384,1
+Rice · Brown spot,Rice · Bacterial leaf blight,0.692,0
+Rice · Brown spot,Rice · Downy mildew,0.391,0
+Rice · Brown spot,Rice · Brown spot,0.575,1
+Rice · Brown spot,Rice · Brown spot,0.526,1
+Rice · Brown spot,Rice · healthy,0.296,0
+Rice · Brown spot,Rice · Brown spot,0.407,1
+Rice · Brown spot,Rice · Tungro,0.339,0
+Rice · Brown spot,Rice · Bacterial leaf blight,0.247,0
+Rice · Brown spot,Rice · Brown spot,0.477,1
+Rice · Brown spot,Rice · Brown spot,0.743,1
+Rice · Brown spot,Rice · Downy mildew,0.513,0
+Rice · Brown spot,Rice · Brown spot,0.401,1
+Rice · Brown spot,Rice · Brown spot,0.842,1
+Rice · Brown spot,Rice · Downy mildew,0.597,0
+Rice · Brown spot,Rice · Brown spot,0.704,1
+Rice · Brown spot,Rice · Brown spot,0.728,1
+Rice · Brown spot,Rice · Hispa,0.587,0
+Rice · Brown spot,Rice · Hispa,0.388,0
+Rice · Brown spot,Rice · Brown spot,0.499,1
+Rice · Brown spot,Rice · Downy mildew,0.74,0
+Rice · Brown spot,Rice · Bacterial leaf blight,0.236,0
+Rice · Brown spot,Rice · Tungro,0.354,0
+Rice · Brown spot,Rice · Brown spot,0.517,1
+Rice · Brown spot,Rice · Brown spot,0.351,1
+Rice · Brown spot,Rice · Brown spot,0.413,1
+Rice · Brown spot,Rice · Downy mildew,0.544,0
+Rice · Brown spot,Rice · Brown spot,0.564,1
+Rice · Brown spot,Rice · Brown spot,0.506,1
+Rice · Brown spot,Rice · Brown spot,0.546,1
+Rice · Brown spot,Rice · Brown spot,0.459,1
+Rice · Hispa,Rice · Bacterial leaf streak,0.291,0
+Rice · Hispa,Rice · Hispa,0.69,1
+Rice · Hispa,Rice · Hispa,0.295,1
+Rice · Hispa,Rice · Hispa,0.287,1
+Rice · Hispa,Rice · healthy,0.714,0
+Rice · Hispa,Rice · Hispa,0.654,1
+Rice · Hispa,Rice · Bacterial leaf blight,0.69,0
+Rice · Hispa,Rice · Bacterial leaf blight,0.285,0
+Rice · Hispa,Rice · Hispa,0.496,1
+Rice · Hispa,Rice · Hispa,0.981,1
+Rice · Hispa,Rice · Hispa,0.726,1
+Rice · Hispa,Rice · Hispa,0.897,1
+Rice · Hispa,Rice · Hispa,0.648,1
+Rice · Hispa,Rice · Bacterial leaf blight,0.449,0
+Rice · Hispa,Rice · Hispa,0.427,1
+Rice · Hispa,Rice · Hispa,0.592,1
+Rice · Hispa,Rice · Hispa,0.315,1
+Rice · Hispa,Rice · Hispa,0.615,1
+Rice · Hispa,Rice · Hispa,0.969,1
+Rice · Hispa,Rice · Brown spot,0.614,0
+Rice · Hispa,Rice · Hispa,0.916,1
+Rice · Hispa,Rice · Hispa,0.686,1
+Rice · Hispa,Rice · Downy mildew,0.46,0
+Rice · Hispa,Rice · Hispa,0.84,1
+Rice · Hispa,Rice · Hispa,0.62,1
+Rice · Hispa,Rice · Hispa,0.935,1
+Rice · Downy mildew,Rice · Bacterial leaf blight,0.648,0
+Rice · Downy mildew,Rice · Downy mildew,0.686,1
+Rice · Downy mildew,Rice · Downy mildew,0.704,1
+Rice · Downy mildew,Rice · Blast,0.777,0
+Rice · Downy mildew,Rice · Downy mildew,0.898,1
+Rice · Downy mildew,Rice · Downy mildew,0.884,1
+Rice · Downy mildew,Rice · Downy mildew,0.799,1
+Rice · Downy mildew,Rice · Downy mildew,0.667,1
+Rice · Downy mildew,Rice · Downy mildew,0.634,1
+Rice · Downy mildew,Rice · Downy mildew,0.903,1
+Rice · Downy mildew,Rice · Downy mildew,0.895,1
+Rice · Downy mildew,Rice · Tungro,0.742,0
+Rice · Downy mildew,Rice · Downy mildew,0.757,1
+Rice · Downy mildew,Rice · Brown spot,0.232,0
+Rice · Downy mildew,Rice · Downy mildew,0.804,1
+Rice · Downy mildew,Rice · Bacterial leaf blight,0.329,0
+Rice · Downy mildew,Rice · Bacterial leaf blight,0.648,0
+Rice · Downy mildew,Rice · Blast,0.576,0
+Rice · Downy mildew,Rice · Downy mildew,0.462,1
+Rice · Downy mildew,Rice · Bacterial leaf streak,0.582,0
+Rice · Downy mildew,Rice · Downy mildew,0.42,1
+Rice · Blast,Rice · Blast,0.735,1
+Rice · Blast,Rice · Blast,0.716,1
+Rice · Blast,Rice · Blast,0.589,1
+Rice · Blast,Rice · Downy mildew,0.408,0
+Rice · Blast,Rice · Blast,0.938,1
+Rice · Blast,Rice · Tungro,0.478,0
+Rice · Blast,Rice · Downy mildew,0.413,0
+Rice · Blast,Rice · Blast,0.745,1
+Rice · Blast,Rice · Blast,0.892,1
+Rice · Blast,Rice · healthy,0.457,0
+Rice · Blast,Rice · Hispa,0.383,0
+Rice · Blast,Rice · Blast,0.93,1
+Rice · Blast,Rice · Blast,0.694,1
+Rice · Blast,Rice · Tungro,0.78,0
+Rice · Blast,Rice · Blast,0.731,1
+Rice · Blast,Rice · Tungro,0.531,0
+Rice · Blast,Rice · Blast,0.503,1
+Rice · Blast,Rice · Hispa,0.597,0
+Rice · Blast,Rice · Blast,0.787,1
+Rice · healthy,Rice · healthy,0.957,1
+Rice · healthy,Rice · healthy,0.564,1
+Rice · healthy,Rice · healthy,0.764,1
+Rice · healthy,Rice · healthy,0.594,1
+Rice · healthy,Rice · healthy,0.912,1
+Rice · healthy,Rice · Downy mildew,0.31,0
+Rice · healthy,Rice · healthy,0.741,1
+Rice · healthy,Rice · healthy,0.717,1
+Rice · healthy,Rice · Bacterial leaf blight,0.423,0
+Rice · healthy,Rice · healthy,0.958,1
+Rice · healthy,Rice · healthy,0.887,1
+Rice · healthy,Rice · healthy,0.915,1
+Rice · healthy,Rice · healthy,0.474,1
+Rice · healthy,Rice · healthy,0.743,1
+Rice · healthy,Rice · healthy,0.802,1
+Rice · healthy,Rice · healthy,0.886,1
+Rice · healthy,Rice · healthy,0.582,1
+Rice · healthy,Rice · healthy,0.805,1
+Rice · healthy,Rice · healthy,0.844,1
+Rice · healthy,Rice · healthy,0.969,1
+Rice · Bacterial leaf streak,Rice · Bacterial leaf streak,0.757,1
+Rice · Bacterial leaf streak,Rice · Bacterial leaf streak,0.425,1
+Rice · Bacterial leaf streak,Rice · Hispa,0.4,0
+Rice · Bacterial leaf streak,Rice · Blast,0.572,0
+Rice · Bacterial leaf streak,Rice · Brown spot,0.498,0
+Rice · Bacterial leaf streak,Rice · Bacterial leaf streak,0.926,1
+Rice · Bacterial leaf streak,Rice · Bacterial leaf streak,0.538,1
+Rice · Bacterial leaf streak,Rice · Brown spot,0.329,0
+Rice · Bacterial leaf streak,Rice · Bacterial leaf streak,0.704,1
+Rice · Bacterial leaf streak,Rice · Bacterial leaf streak,0.709,1
+Rice · Bacterial leaf streak,Rice · Bacterial leaf streak,0.939,1
+Rice · Bacterial leaf streak,Rice · Brown spot,0.319,0
+Rice · Bacterial leaf streak,Rice · Bacterial leaf streak,0.981,1
+Rice · Bacterial leaf streak,Rice · Bacterial leaf blight,0.286,0
+Rice · Bacterial leaf streak,Rice · Bacterial leaf streak,0.475,1
+Rice · Bacterial leaf streak,Rice · Bacterial leaf streak,0.842,1
+Rice · Bacterial leaf streak,Rice · Bacterial leaf streak,0.863,1
+Rice · Bacterial leaf streak,Rice · Brown spot,0.646,0
+Rice · Bacterial leaf streak,Rice · Bacterial leaf streak,0.436,1
+Rice · Bacterial leaf streak,Rice · Bacterial leaf streak,0.683,1
+Rice · Bacterial leaf streak,Rice · Bacterial leaf streak,0.647,1
+Rice · Tungro,Rice · Downy mildew,0.792,0
+Rice · Tungro,Rice · Downy mildew,0.538,0
+Rice · Tungro,Rice · Tungro,0.46,1
+Rice · Tungro,Rice · Hispa,0.515,0
+Rice · Tungro,Rice · Tungro,0.828,1
+Rice · Tungro,Rice · Tungro,0.872,1
+Rice · Tungro,Rice · Tungro,0.402,1
+Rice · Tungro,Rice · Blast,0.443,0
+Rice · Tungro,Rice · Tungro,0.762,1
+Rice · Tungro,Rice · Tungro,0.821,1
+Rice · Tungro,Rice · Downy mildew,0.948,0
+Rice · Tungro,Rice · Tungro,0.84,1
+Rice · Tungro,Rice · Tungro,0.487,1
+Rice · Tungro,Rice · Tungro,0.647,1
+Rice · Tungro,Rice · Blast,0.377,0
+Rice · Tungro,Rice · Tungro,0.967,1
+Rice · Tungro,Rice · Tungro,0.672,1
+Rice · Tungro,Rice · Tungro,0.548,1
+Rice · Tungro,Rice · Downy mildew,0.396,0
+Rice · Tungro,Rice · Bacterial leaf blight,0.368,0
+Rice · Tungro,Rice · Tungro,0.889,1
+Rice · Tungro,Rice · Tungro,0.613,1
+Rice · Tungro,Rice · Tungro,0.834,1
+Rice · Tungro,Rice · healthy,0.339,0
+Rice · Tungro,Rice · Bacterial leaf streak,0.367,0
+Rice · Tungro,Rice · healthy,0.429,0
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.958,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.965,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.883,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.983,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.932,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.675,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.991,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.997,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.97,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.904,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.942,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.978,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.971,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.994,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.983,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.794,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.992,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.81,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.998,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.976,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.915,1
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.948,1
+Cotton · Alternaria leaf spot,Cotton · Verticillium wilt,0.523,0
+Cotton · Alternaria leaf spot,Cotton · Alternaria leaf spot,0.475,1
+Cotton · Alternaria leaf spot,Cotton · Verticillium wilt,0.823,0
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.91,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.984,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.738,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.911,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.99,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.891,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.652,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.903,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.774,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.966,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.981,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.983,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.959,1
+Cotton · Verticillium wilt,Cotton · Bacterial blight,0.582,0
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.924,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.812,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.776,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.943,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.557,1
+Cotton · Verticillium wilt,Cotton · Alternaria leaf spot,0.424,0
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.976,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.881,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.823,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.875,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.931,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.559,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.993,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.973,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.697,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.648,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.986,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.949,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.958,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.876,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.83,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.931,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.968,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.968,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.966,1
+Cotton · Verticillium wilt,Cotton · Verticillium wilt,0.911,1
+Cotton · healthy,Cotton · healthy,0.968,1
+Cotton · healthy,Cotton · healthy,0.895,1
+Cotton · healthy,Cotton · healthy,0.954,1
+Cotton · healthy,Cotton · healthy,0.899,1
+Cotton · healthy,Cotton · healthy,0.946,1
+Cotton · healthy,Cotton · healthy,0.954,1
+Cotton · healthy,Cotton · healthy,0.941,1
+Cotton · healthy,Cotton · healthy,0.989,1
+Cotton · healthy,Cotton · healthy,0.946,1
+Cotton · healthy,Cotton · healthy,0.959,1
+Cotton · healthy,Cotton · healthy,0.964,1
+Cotton · healthy,Cotton · healthy,0.964,1
+Cotton · healthy,Cotton · healthy,0.983,1
+Cotton · healthy,Cotton · healthy,0.96,1
+Cotton · healthy,Cotton · healthy,0.895,1
+Cotton · healthy,Cotton · healthy,0.97,1
+Cotton · healthy,Cotton · healthy,0.886,1
+Cotton · healthy,Cotton · healthy,0.941,1
+Cotton · healthy,Cotton · healthy,0.979,1
+Cotton · healthy,Cotton · healthy,0.96,1
+Cotton · healthy,Cotton · healthy,0.963,1
+Cotton · healthy,Cotton · healthy,0.985,1
+Cotton · healthy,Cotton · healthy,0.982,1
+Cotton · healthy,Cotton · healthy,0.979,1
+Cotton · healthy,Cotton · healthy,0.948,1
+Cotton · healthy,Cotton · healthy,0.989,1
+Cotton · healthy,Cotton · healthy,0.941,1
+Cotton · healthy,Cotton · healthy,0.943,1
+Cotton · healthy,Cotton · healthy,0.983,1
+Cotton · healthy,Cotton · healthy,0.884,1
+Cotton · Fusarium wilt,Cotton · Fusarium wilt,0.954,1
+Cotton · Fusarium wilt,Cotton · Fusarium wilt,0.978,1
+Cotton · Fusarium wilt,Cotton · Fusarium wilt,0.918,1
+Cotton · Fusarium wilt,Cotton · Fusarium wilt,0.872,1
+Cotton · Fusarium wilt,Cotton · Fusarium wilt,0.931,1
+Cotton · Fusarium wilt,Cotton · Fusarium wilt,0.906,1
+Cotton · Fusarium wilt,Cotton · Fusarium wilt,0.803,1
+Cotton · Fusarium wilt,Cotton · Fusarium wilt,0.937,1
+Cotton · Fusarium wilt,Cotton · Alternaria leaf spot,0.874,0
+Cotton · Fusarium wilt,Cotton · Fusarium wilt,0.947,1
+Cotton · Fusarium wilt,Cotton · Fusarium wilt,0.941,1
+Cotton · Fusarium wilt,Cotton · Bacterial blight,0.325,0
+Cotton · Fusarium wilt,Cotton · Fusarium wilt,0.903,1
+Cotton · Fusarium wilt,Cotton · Fusarium wilt,0.743,1
+Cotton · Fusarium wilt,Cotton · Alternaria leaf spot,0.739,0
+Cotton · Fusarium wilt,Cotton · Fusarium wilt,0.965,1
+Cotton · Fusarium wilt,Cotton · Fusarium wilt,0.79,1
+Cotton · Fusarium wilt,Cotton · Fusarium wilt,0.955,1
+Cotton · Fusarium wilt,Cotton · Fusarium wilt,0.98,1
+Cotton · Fusarium wilt,Cotton · Fusarium wilt,0.984,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.986,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.963,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.939,1
+Cotton · Bacterial blight,Cotton · Verticillium wilt,0.633,0
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.568,1
+Cotton · Bacterial blight,Cotton · Alternaria leaf spot,0.492,0
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.726,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.944,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.871,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.983,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.982,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.949,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.71,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.776,1
+Cotton · Bacterial blight,Cotton · Verticillium wilt,0.819,0
+Cotton · Bacterial blight,Cotton · Verticillium wilt,0.921,0
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.922,1
+Cotton · Bacterial blight,Cotton · Verticillium wilt,0.385,0
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.885,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.945,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.728,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.531,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.963,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.405,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.936,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.91,1
+Cotton · Bacterial blight,Cotton · Fusarium wilt,0.815,0
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.996,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.996,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.589,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.97,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.983,1
+Cotton · Bacterial blight,Cotton · Fusarium wilt,0.815,0
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.918,1
+Cotton · Bacterial blight,Cotton · Bacterial blight,0.998,1
+Banana · Xanthomonas wilt,Banana · Xanthomonas wilt,0.944,1
+Banana · Xanthomonas wilt,Banana · Xanthomonas wilt,0.874,1
+Banana · Xanthomonas wilt,Banana · Xanthomonas wilt,0.988,1
+Banana · Xanthomonas wilt,Banana · Xanthomonas wilt,0.807,1
+Banana · Xanthomonas wilt,Banana · Xanthomonas wilt,0.811,1
+Banana · Xanthomonas wilt,Banana · Xanthomonas wilt,0.957,1
+Banana · Xanthomonas wilt,Banana · Xanthomonas wilt,0.851,1
+Banana · Xanthomonas wilt,Banana · Xanthomonas wilt,0.993,1
+Banana · Xanthomonas wilt,Banana · Sigatoka,0.511,0
+Banana · Xanthomonas wilt,Banana · Xanthomonas wilt,0.996,1
+Banana · Xanthomonas wilt,Banana · Xanthomonas wilt,0.878,1
+Banana · Xanthomonas wilt,Banana · Xanthomonas wilt,0.962,1
+Banana · Xanthomonas wilt,Banana · Xanthomonas wilt,0.867,1
+Banana · Xanthomonas wilt,Banana · Xanthomonas wilt,0.52,1
+Banana · Xanthomonas wilt,Banana · Xanthomonas wilt,0.998,1
+Banana · Xanthomonas wilt,Banana · Xanthomonas wilt,0.99,1
+Banana · Xanthomonas wilt,Banana · Xanthomonas wilt,0.726,1
+Banana · Xanthomonas wilt,Banana · Sigatoka,0.748,0
+Banana · Xanthomonas wilt,Banana · Xanthomonas wilt,0.978,1
+Banana · Xanthomonas wilt,Banana · Xanthomonas wilt,0.955,1
+Banana · healthy,Banana · healthy,0.78,1
+Banana · healthy,Banana · healthy,0.629,1
+Banana · healthy,Banana · healthy,0.572,1
+Banana · healthy,Banana · healthy,0.929,1
+Banana · healthy,Banana · healthy,0.998,1
+Banana · healthy,Banana · Xanthomonas wilt,0.756,0
+Banana · healthy,Banana · healthy,0.999,1
+Banana · healthy,Banana · healthy,0.983,1
+Banana · healthy,Banana · healthy,0.993,1
+Banana · healthy,Banana · healthy,0.71,1
+Banana · healthy,Banana · Xanthomonas wilt,0.953,0
+Banana · healthy,Banana · Sigatoka,0.535,0
+Banana · healthy,Banana · healthy,0.935,1
+Banana · healthy,Banana · healthy,0.955,1
+Banana · healthy,Banana · healthy,0.887,1
+Banana · healthy,Banana · healthy,0.99,1
+Banana · healthy,Banana · healthy,0.954,1
+Banana · healthy,Banana · healthy,0.894,1
+Banana · healthy,Banana · healthy,0.758,1
+Banana · healthy,Banana · healthy,0.788,1
+Banana · healthy,Banana · healthy,0.956,1
+Banana · healthy,Banana · Xanthomonas wilt,0.561,0
+Banana · healthy,Banana · healthy,0.794,1
+Banana · healthy,Banana · healthy,0.991,1
+Banana · healthy,Banana · healthy,0.917,1
+Banana · healthy,Banana · healthy,0.987,1
+Banana · healthy,Banana · healthy,0.906,1
+Banana · Sigatoka,Banana · healthy,0.971,0
+Banana · Sigatoka,Banana · Xanthomonas wilt,0.732,0
+Banana · Sigatoka,Banana · Sigatoka,0.51,1
+Banana · Sigatoka,Banana · Xanthomonas wilt,0.845,0
+Banana · Sigatoka,Banana · Sigatoka,0.996,1
+Banana · Sigatoka,Banana · Sigatoka,0.998,1
+Banana · Sigatoka,Banana · Sigatoka,0.991,1
+Banana · Sigatoka,Banana · Sigatoka,0.999,1
+Banana · Sigatoka,Banana · Sigatoka,0.998,1
+Banana · Sigatoka,Banana · Sigatoka,0.961,1
+Banana · Sigatoka,Banana · Sigatoka,0.975,1
+Banana · Sigatoka,Banana · Sigatoka,0.787,1
+Banana · Sigatoka,Banana · Sigatoka,0.768,1
+Banana · Sigatoka,Banana · Sigatoka,0.939,1
+Banana · Sigatoka,Banana · Sigatoka,0.918,1
+Banana · Sigatoka,Banana · Sigatoka,0.983,1
+Banana · Sigatoka,Banana · Sigatoka,0.995,1
+Banana · Sigatoka,Banana · Xanthomonas wilt,0.923,0
+Banana · Sigatoka,Banana · Sigatoka,0.953,1
+Banana · Sigatoka,Banana · Sigatoka,0.939,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.984,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.961,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.918,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.966,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.993,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.936,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.949,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.934,1
+Groundnut · Alternaria leaf spot,Groundnut · healthy,0.381,0
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.72,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.957,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.666,1
+Groundnut · Alternaria leaf spot,Groundnut · Tikka leaf spot,0.485,0
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.845,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.921,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.965,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.914,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.986,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.91,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.944,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.889,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.547,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.959,1
+Groundnut · Alternaria leaf spot,Groundnut · Alternaria leaf spot,0.919,1
+Groundnut · healthy,Groundnut · healthy,0.938,1
+Groundnut · healthy,Groundnut · healthy,0.822,1
+Groundnut · healthy,Groundnut · healthy,0.94,1
+Groundnut · healthy,Groundnut · healthy,0.991,1
+Groundnut · healthy,Groundnut · healthy,0.805,1
+Groundnut · healthy,Groundnut · healthy,0.855,1
+Groundnut · healthy,Groundnut · healthy,0.943,1
+Groundnut · healthy,Groundnut · healthy,0.795,1
+Groundnut · healthy,Groundnut · healthy,0.92,1
+Groundnut · healthy,Groundnut · healthy,0.879,1
+Groundnut · healthy,Groundnut · healthy,0.974,1
+Groundnut · healthy,Groundnut · healthy,0.936,1
+Groundnut · healthy,Groundnut · healthy,0.969,1
+Groundnut · healthy,Groundnut · healthy,0.972,1
+Groundnut · healthy,Groundnut · healthy,0.881,1
+Groundnut · healthy,Groundnut · healthy,0.958,1
+Groundnut · healthy,Groundnut · healthy,0.758,1
+Groundnut · healthy,Groundnut · healthy,0.957,1
+Groundnut · healthy,Groundnut · healthy,0.937,1
+Groundnut · healthy,Groundnut · Tikka leaf spot,0.455,0
+Groundnut · healthy,Groundnut · healthy,0.915,1
+Groundnut · healthy,Groundnut · healthy,0.824,1
+Groundnut · healthy,Groundnut · healthy,0.978,1
+Groundnut · healthy,Groundnut · healthy,0.962,1
+Groundnut · healthy,Groundnut · healthy,0.936,1
+Groundnut · Rust,Groundnut · Rust,0.958,1
+Groundnut · Rust,Groundnut · Rust,0.906,1
+Groundnut · Rust,Groundnut · Rust,0.773,1
+Groundnut · Rust,Groundnut · Rust,0.994,1
+Groundnut · Rust,Groundnut · Rust,0.977,1
+Groundnut · Rust,Groundnut · Rust,0.993,1
+Groundnut · Rust,Groundnut · Rust,0.983,1
+Groundnut · Rust,Groundnut · Rust,0.994,1
+Groundnut · Rust,Groundnut · Rust,0.997,1
+Groundnut · Rust,Groundnut · Rust,0.964,1
+Groundnut · Rust,Groundnut · Rust,0.969,1
+Groundnut · Rust,Groundnut · Rust,0.983,1
+Groundnut · Rust,Groundnut · Rust,0.997,1
+Groundnut · Rust,Groundnut · Rust,0.977,1
+Groundnut · Rust,Groundnut · Rust,0.997,1
+Groundnut · Rust,Groundnut · Rust,0.973,1
+Groundnut · Rust,Groundnut · Rust,0.999,1
+Groundnut · Rust,Groundnut · Rust,0.649,1
+Groundnut · Rust,Groundnut · Rust,0.609,1
+Groundnut · Rust,Groundnut · Rust,0.988,1
+Groundnut · Rust,Groundnut · Rust,0.98,1
+Groundnut · Rust,Groundnut · Rust,0.853,1
+Groundnut · Rust,Groundnut · Rust,0.986,1
+Groundnut · Rust,Groundnut · Rust,0.994,1
+Groundnut · Rust,Groundnut · Rust,0.987,1
+Groundnut · Rust,Groundnut · Rust,0.833,1
+Groundnut · Rust,Groundnut · Rust,0.983,1
+Groundnut · Rust,Groundnut · Rust,0.993,1
+Groundnut · Rust,Groundnut · Rust,0.906,1
+Groundnut · Rust,Groundnut · Rust,0.852,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.75,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.87,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.935,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.847,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.768,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.674,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.664,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.914,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.779,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.94,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.915,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.96,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.804,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.952,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.79,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.79,1
+Groundnut · Tikka leaf spot,Groundnut · Alternaria leaf spot,0.846,0
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.621,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.953,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.67,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.43,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.766,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.923,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.951,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.927,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.851,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.954,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.493,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.605,1
+Groundnut · Tikka leaf spot,Groundnut · Tikka leaf spot,0.534,1
+Groundnut · Rosette,Groundnut · Rosette,0.711,1
+Groundnut · Rosette,Groundnut · Rosette,0.996,1
+Groundnut · Rosette,Groundnut · Rosette,0.844,1
+Groundnut · Rosette,Groundnut · Rosette,0.998,1
+Groundnut · Rosette,Groundnut · Rosette,0.625,1
+Groundnut · Rosette,Groundnut · Rosette,0.684,1
+Groundnut · Rosette,Groundnut · Rosette,0.826,1
+Groundnut · Rosette,Groundnut · Rosette,0.972,1
+Groundnut · Rosette,Groundnut · Rosette,0.842,1
+Groundnut · Rosette,Groundnut · Rosette,0.985,1
+Groundnut · Rosette,Groundnut · Rosette,0.943,1
+Groundnut · Rosette,Groundnut · Rosette,0.908,1
+Groundnut · Rosette,Groundnut · Rosette,0.983,1
+Groundnut · Rosette,Groundnut · Rosette,0.99,1
+Groundnut · Rosette,Groundnut · Rosette,0.97,1
+Groundnut · Rosette,Groundnut · Rosette,0.988,1
+Groundnut · Rosette,Groundnut · Rosette,0.924,1
+Groundnut · Rosette,Groundnut · Rosette,0.985,1
+Groundnut · Rosette,Groundnut · Rosette,0.912,1
+Groundnut · Rosette,Groundnut · Rosette,0.972,1
+Onion · healthy,Onion · Iris yellow spot virus,0.547,0
+Onion · healthy,Onion · healthy,0.726,1
+Onion · healthy,Onion · healthy,0.745,1
+Onion · healthy,Onion · healthy,0.686,1
+Onion · healthy,Onion · healthy,0.457,1
+Onion · healthy,Onion · healthy,0.521,1
+Onion · healthy,Onion · healthy,0.65,1
+Onion · healthy,Onion · healthy,0.716,1
+Onion · healthy,Onion · healthy,0.881,1
+Onion · healthy,Onion · healthy,0.785,1
+Onion · healthy,Onion · healthy,0.888,1
+Onion · healthy,Onion · healthy,0.804,1
+Onion · healthy,Onion · healthy,0.499,1
+Onion · healthy,Onion · Iris yellow spot virus,0.822,0
+Onion · healthy,Onion · healthy,0.725,1
+Onion · healthy,Onion · healthy,0.892,1
+Onion · healthy,Onion · Iris yellow spot virus,0.511,0
+Onion · healthy,Onion · Iris yellow spot virus,0.709,0
+Onion · healthy,Onion · healthy,0.814,1
+Onion · healthy,Onion · healthy,0.919,1
+Onion · healthy,Onion · healthy,0.722,1
+Onion · healthy,Onion · healthy,0.594,1
+Onion · healthy,Onion · healthy,0.634,1
+Onion · healthy,Onion · Stemphylium blight,0.853,0
+Onion · healthy,Onion · healthy,0.897,1
+Onion · healthy,Onion · Stemphylium blight,0.786,0
+Onion · healthy,Onion · healthy,0.917,1
+Onion · healthy,Onion · healthy,0.683,1
+Onion · healthy,Onion · Iris yellow spot virus,0.75,0
+Onion · healthy,Onion · healthy,0.617,1
+Onion · healthy,Onion · healthy,0.491,1
+Onion · healthy,Onion · healthy,0.791,1
+Onion · healthy,Onion · Stemphylium blight,0.589,0
+Onion · healthy,Onion · healthy,0.763,1
+Onion · healthy,Onion · Iris yellow spot virus,0.569,0
+Onion · Stemphylium blight,Onion · Stemphylium blight,0.977,1
+Onion · Stemphylium blight,Onion · Stemphylium blight,0.953,1
+Onion · Stemphylium blight,Onion · Stemphylium blight,0.946,1
+Onion · Stemphylium blight,Onion · Stemphylium blight,0.796,1
+Onion · Stemphylium blight,Onion · Stemphylium blight,0.864,1
+Onion · Stemphylium blight,Onion · Stemphylium blight,0.859,1
+Onion · Stemphylium blight,Onion · Stemphylium blight,0.873,1
+Onion · Stemphylium blight,Onion · Stemphylium blight,0.974,1
+Onion · Stemphylium blight,Onion · Iris yellow spot virus,0.415,0
+Onion · Stemphylium blight,Onion · Stemphylium blight,0.795,1
+Onion · Stemphylium blight,Onion · Iris yellow spot virus,0.817,0
+Onion · Stemphylium blight,Onion · Stemphylium blight,0.987,1
+Onion · Stemphylium blight,Onion · Stemphylium blight,0.983,1
+Onion · Stemphylium blight,Onion · Stemphylium blight,0.932,1
+Onion · Stemphylium blight,Onion · Stemphylium blight,0.976,1
+Onion · Stemphylium blight,Onion · Stemphylium blight,0.99,1
+Onion · Stemphylium blight,Onion · Stemphylium blight,0.499,1
+Onion · Stemphylium blight,Onion · Stemphylium blight,0.977,1
+Onion · Stemphylium blight,Onion · Stemphylium blight,0.965,1
+Onion · Stemphylium blight,Onion · Iris yellow spot virus,0.439,0
+Onion · Stemphylium blight,Onion · healthy,0.76,0
+Onion · Stemphylium blight,Onion · Stemphylium blight,0.98,1
+Onion · Purple blotch,Onion · Iris yellow spot virus,0.772,0
+Onion · Purple blotch,Onion · healthy,0.433,0
+Onion · Purple blotch,Onion · Purple blotch,0.585,1
+Onion · Purple blotch,Onion · Iris yellow spot virus,0.509,0
+Onion · Purple blotch,Onion · Purple blotch,0.902,1
+Onion · Purple blotch,Onion · Purple blotch,0.858,1
+Onion · Purple blotch,Onion · Stemphylium blight,0.417,0
+Onion · Purple blotch,Onion · Purple blotch,0.938,1
+Onion · Purple blotch,Onion · Purple blotch,0.746,1
+Onion · Iris yellow spot virus,Onion · Iris yellow spot virus,0.858,1
+Onion · Iris yellow spot virus,Onion · Iris yellow spot virus,0.973,1
+Onion · Iris yellow spot virus,Onion · Iris yellow spot virus,0.628,1
+Onion · Iris yellow spot virus,Onion · Iris yellow spot virus,0.666,1
+Onion · Iris yellow spot virus,Onion · Iris yellow spot virus,0.975,1
+Onion · Iris yellow spot virus,Onion · Iris yellow spot virus,0.924,1
+Onion · Iris yellow spot virus,Onion · Stemphylium blight,0.503,0
+Onion · Iris yellow spot virus,Onion · Iris yellow spot virus,0.94,1
+Onion · Iris yellow spot virus,Onion · Iris yellow spot virus,0.848,1
+Onion · Iris yellow spot virus,Onion · Iris yellow spot virus,0.957,1
+Onion · Iris yellow spot virus,Onion · Stemphylium blight,0.507,0
+Onion · Iris yellow spot virus,Onion · Purple blotch,0.394,0
+Onion · Iris yellow spot virus,Onion · Iris yellow spot virus,0.912,1
+Onion · Iris yellow spot virus,Onion · Iris yellow spot virus,0.698,1
+Onion · Iris yellow spot virus,Onion · Stemphylium blight,0.55,0
+Onion · Iris yellow spot virus,Onion · Iris yellow spot virus,0.973,1
+Onion · Iris yellow spot virus,Onion · healthy,0.767,0
+Onion · Iris yellow spot virus,Onion · Iris yellow spot virus,0.458,1
+Onion · Iris yellow spot virus,Onion · Iris yellow spot virus,0.714,1
+Onion · Iris yellow spot virus,Onion · healthy,0.995,0
+Onion · Iris yellow spot virus,Onion · Iris yellow spot virus,0.695,1
+Onion · Iris yellow spot virus,Onion · Iris yellow spot virus,0.698,1
+"Pepper, bell · Bacterial spot","Pepper, bell · Bacterial spot",0.97,1
+"Pepper, bell · Bacterial spot","Pepper, bell · healthy",0.65,0
+"Pepper, bell · Bacterial spot","Pepper, bell · Bacterial spot",0.981,1
+"Pepper, bell · Bacterial spot","Pepper, bell · Bacterial spot",0.935,1
+"Pepper, bell · Bacterial spot",Chilli · healthy,0.423,0
+"Pepper, bell · Bacterial spot","Pepper, bell · healthy",0.505,0
+"Pepper, bell · Bacterial spot","Pepper, bell · Bacterial spot",0.818,1
+"Pepper, bell · Bacterial spot","Pepper, bell · Bacterial spot",0.98,1
+"Pepper, bell · Bacterial spot","Pepper, bell · Bacterial spot",1.0,1
+"Pepper, bell · healthy","Pepper, bell · healthy",1.0,1
+"Pepper, bell · healthy","Pepper, bell · healthy",0.991,1
+"Pepper, bell · healthy","Pepper, bell · healthy",0.444,1
+"Pepper, bell · healthy",Chilli · Nutrient deficiency,0.527,0
+"Pepper, bell · healthy","Pepper, bell · healthy",0.555,1
+"Pepper, bell · healthy",Chilli · Nutrient deficiency,0.464,0
+"Pepper, bell · healthy","Pepper, bell · Bacterial spot",0.489,0
+"Pepper, bell · healthy",Chilli · Nutrient deficiency,0.923,0

@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-01",
+  "dataset": "PlantDoc (Singh et al., 2020) \u2014 real field photos of 27 conditions that the on-device model knows",
+  "train": {
+    "n": 2336,
+    "alpha": 0.0,
+    "gate": [
+      0.6994,
+      0.7494
+    ],
+    "folds": 5,
+    "C": 0.2,
+    "T": 1.95,
+    "cvAcc": 0.7461
+  },
+  "test": {
+    "n": 236,
+    "lab": {
+      "acc": 0.5508,
+      "top3": 0.8771
+    },
+    "adapted": {
+      "acc": 0.6822,
+      "top3": 0.9407
+    },
+    "perCrop": {
+      "Apple": {
+        "n": 29,
+        "lab": 16,
+        "adapted": 21
+      },
+      "Blueberry": {
+        "n": 11,
+        "lab": 11,
+        "adapted": 11
+      },
+      "Capsicum": {
+        "n": 17,
+        "lab": 14,
+        "adapted": 11
+      },
+      "Cherry": {
+        "n": 10,
+        "lab": 5,
+        "adapted": 6
+      },
+      "Grape": {
+        "n": 20,
+        "lab": 9,
+        "adapted": 11
+      },
+      "Maize": {
+        "n": 26,
+        "lab": 11,
+        "adapted": 14
+      },
+      "Peach": {
+        "n": 9,
+        "lab": 2,
+        "adapted": 5
+      },
+      "Potato": {
+        "n": 16,
+        "lab": 5,
+        "adapted": 11
+      },
+      "Raspberry": {
+        "n": 7,
+        "lab": 7,
+        "adapted": 7
+      },
+      "Soybean": {
+        "n": 8,
+        "lab": 8,
+        "adapted": 8
+      },
+      "Squash": {
+        "n": 6,
+        "lab": 6,
+        "adapted": 6
+      },
+      "Strawberry": {
+        "n": 8,
+        "lab": 6,
+        "adapted": 8
+      },
+      "Tomato": {
+        "n": 69,
+        "lab": 30,
+        "adapted": 32
+      }
+    }
+  },
+  "labCheck": {
+    "n": 6,
+    "ok": 6
+  },
+  "leafGate": {
+    "n": 776,
+    "accepted": 757,
+    "acceptedRate": 0.9755,
+    "rule": "reject if sim < 0.25, or sim < 0.30 with < 50 % plant pixels, or sim < 0.40 with < 5 % plant pixels"
+  },
+  "nonPlant": {
+    "n": 32,
+    "rejected": 31,
+    "missed": [
+      "brick wall"
+    ],
+    "source": "Wikimedia Commons"
+  },
+  "n": 236,
+  "acc": 0.5508,
+  "cv": {
+    "baseAcc": 0.5508,
+    "adaptedAcc": 0.6822,
+    "folds": 5,
+    "n": 236
+  }
+}

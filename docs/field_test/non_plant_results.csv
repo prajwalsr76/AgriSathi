@@ -1,0 +1,33 @@
+object,wikimedia_commons_page,leaf_similarity,plant_pixel_share,leaf_detector
+computer keyboard,https://commons.wikimedia.org/wiki/File:Camera_zoom_burst_on_a_Microsoft_computer_keyboard_in_Tuntorp_8.jpg,0.0778,0,rejected
+coffee cup,https://commons.wikimedia.org/wiki/File:A_small_cup_of_coffee.JPG,0.096,0.1222,rejected
+shoe,https://commons.wikimedia.org/wiki/File:Reebok_Royal_Glide_Ripple_Clip_shoe.jpg,0.0498,0.0004,rejected
+dog,https://commons.wikimedia.org/wiki/File:Human%E2%80%93canine_friendship_-_girl_hugging_her_dog_tightly_at_golden_hour_in_Laos.jpg,0.0766,0.5709,rejected
+green door,"https://commons.wikimedia.org/wiki/File:Green_door,_Bruges.jpg",0.1631,0.3337,rejected
+brick wall,https://commons.wikimedia.org/wiki/File:Ivy_Hedera_Red_Brick_Wall_2892px.jpg,0.4831,0.958,accepted
+kitchen interior,https://commons.wikimedia.org/wiki/File:Dirck_de_Vries_-_Kitchen_Interior_-_Walters_372651.jpg,0.0289,0.7561,rejected
+wooden chair,"https://commons.wikimedia.org/wiki/File:Santorin_(GR),_Fira_--_2017_--_2598.jpg",0.0298,0.0015,rejected
+concrete wall,https://commons.wikimedia.org/wiki/File:Old_concrete_wall.jpg,0.1488,0.1182,rejected
+green plastic chair,https://commons.wikimedia.org/wiki/File:Rain_on_green_plastic_chair_-_Flickr_-_chris.rycroft.jpg,0.2334,0.971,rejected
+sofa,https://commons.wikimedia.org/wiki/File:Reception_lounge_at_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg,-0.0166,0.8232,rejected
+river,"https://commons.wikimedia.org/wiki/File:Wilkin_River_close_to_its_confluence_with_Makarora_River,_Otago,_New_Zealand.jpg",0.1105,0.2966,rejected
+plastic bottle,https://commons.wikimedia.org/wiki/File:Bales_of_PET_bottles_closeup.jpg,0.0689,0.1021,rejected
+tractor,"https://commons.wikimedia.org/wiki/File:Tractor_New_Holland_T6.165_plowing_(Zadobrova,_Ljubljana).jpg",0.192,0.8887,rejected
+blue sky clouds,https://commons.wikimedia.org/wiki/File:Cirrus_uncinus_clouds_in_the_morning_sky.jpg,0.1343,0.0222,rejected
+bicycle,https://commons.wikimedia.org/wiki/File:Parked_bicycle_with_graffitied_building_facade_and_doors_in_Amsterdam.jpg,0.0707,0.1319,rejected
+television set,https://commons.wikimedia.org/wiki/File:1990s_Television_Set.jpg,0.0319,0.1605,rejected
+tennis ball,https://commons.wikimedia.org/wiki/File:Cavapoo_dog_chasing_a_maltipoo_with_a_ball_(11881).jpg,0.031,0.9072,rejected
+mobile phone,https://commons.wikimedia.org/wiki/File:Mobile_phone_PHS_Japan_1997-2003.jpg,0.0723,0.0217,rejected
+red car,https://commons.wikimedia.org/wiki/File:Red_car_toy.jpg,0.1003,0.0401,rejected
+green painted wall,https://commons.wikimedia.org/wiki/File:Berlinermauer.jpg,0.0516,0.1004,rejected
+cow,https://commons.wikimedia.org/wiki/File:Cow_(Fleckvieh_breed)_Oeschinensee_Slaunger_2009-07-07.jpg,0.108,0.7367,rejected
+wooden table,https://commons.wikimedia.org/wiki/File:Carved_wooden_bench_furniture_and_crafts_at_Heuan_Chan_heritage_house_in_Luang_Prabang_Laos.jpg,0.0679,0.6536,rejected
+laptop computer,https://commons.wikimedia.org/wiki/File:IBM_Thinkpad_R51.jpg,0.0992,0.0063,rejected
+wall clock,"https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg",0.0787,0.368,rejected
+green car,https://commons.wikimedia.org/wiki/File:Green_Car_Mark_at_Kyoto_Station.jpg,0.0328,0.1444,rejected
+bare soil,https://commons.wikimedia.org/wiki/File:Bare_soil_-_geograph.org.uk_-_5756696.jpg,0.1317,0.0077,rejected
+books shelf,https://commons.wikimedia.org/wiki/File:Books_Shelf..jpg,0.1095,0.3157,rejected
+green bag,https://commons.wikimedia.org/wiki/File:Green_Bag_Vol._6_p._10_tailpiece.jpg,0.1168,0,rejected
+asphalt road,https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_memorial_amk.jpg,0.0625,0.0436,rejected
+office building,"https://commons.wikimedia.org/wiki/File:Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto,_Japan.jpg",0.0393,0.0593,rejected
+cat,https://commons.wikimedia.org/wiki/File:Felis_catus-cat_on_snow.jpg,0.1068,0.1505,rejected
