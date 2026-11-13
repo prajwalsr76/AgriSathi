@@ -51,7 +51,7 @@ Requirements: Python 3 (Anaconda is fine) and Chrome / Edge.
 **Windows:** double-click `start.bat`
 **macOS / Linux:** `./start.sh`
 
-The browser opens at **http://localhost:8080**. The first diagnosis downloads the AI model (≈ 24 MB) once; after that it is cached.
+The browser opens at in your local server . The first diagnosis downloads the AI model (≈ 24 MB) once; after that it is cached.
 
 > Opening `index.html` directly (file://) will not work — browsers block modules and workers on file URLs. Always use the start script.
 
